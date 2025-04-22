@@ -1,0 +1,4 @@
+node_modules/ 
+back-iot/node_modules/ 
+front-iot/node_modules/ 
+my-app/node_modules/
